@@ -1,6 +1,6 @@
 # Memphis Public Incidents
 ## Note
-- Data came from 2019 to September 16, 2022. Therefore, data in 2022 is not complete. 
+- Data came from 2017 to September 16, 2022. Therefore, data in 2022 is not complete. 
 
 ## Information
 - <b>Part 1:</b> The map shows the density of public incidents from 2017 to 2022.<br> 
