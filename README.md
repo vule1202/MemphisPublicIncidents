@@ -11,7 +11,6 @@
   * Link to Tableau Public: https://public.tableau.com/views/MemphisPublicSafetyIncidentsPart2/Part2?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Dataset
-- Source: https://data.memphistn.gov/Public-Safety/Memphis-Police-Department-Public-Safety-Incidents/ybsi-jur4
-- The dataset has more than one million rows and still updated. 
-- Besides cities in Memphis area, the dataset has some others that do not belong to Memphis or Tennessee state.
-- Cities are not really consistent and accurated. For example, an incident in Cordova could be categorized as in Memphis.
+- The dataset has more than one million rows and is still updated.
+- Besides cities in the Memphis area, the dataset has some others that do not belong to Memphis or Tennessee state.
+- Cities are not consistent and accurate. For example, an incident in Cordova could be categorized as in Memphis.
